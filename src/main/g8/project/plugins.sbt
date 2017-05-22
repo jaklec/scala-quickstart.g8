@@ -1,0 +1,6 @@
+addSbtPlugin("io.spray" % "sbt-revolver" % "$sbtRevolverVersion$")
+addSbtPlugin("net.virtual-void" % "sbt-dependency-graph" % "$sbtDependencyGraphVersion$")
+addSbtPlugin("com.timushev.sbt" % "sbt-updates" % "$sbtUpdatesVersion$")
+addSbtPlugin("org.scalariform" % "sbt-scalariform" % "$sbtScalariformVersion$")
+addSbtPlugin("org.scoverage" % "sbt-scoverage" % "$sbtScoverageVersion$")
+addSbtPlugin("com.typesafe.sbt" % "sbt-native-packager" % "$sbtNativePackagerVersion$")
